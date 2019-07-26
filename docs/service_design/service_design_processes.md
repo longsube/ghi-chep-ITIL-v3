@@ -61,4 +61,7 @@ Tài liệu này sẽ không nói về các process: Strategy management và Dem
 	- Dàn xếp khi có một xung đột về việc sử dụng DV giữa các business units. 
 	- Thiết lập một thủ tục chuẩn để quản lý các khiếu nại và escalation với KH.
 ### 3.3. Scope của BRM
-	
+	- DN giao tiếp hiệu quả với khách hàng để hiểu các nhu cầu của họ.
+	- Làm việc với các process và function quản lý dịch vụ khác.
+	- Tương tác giữa BRM process và service level management cần phải rõ ràng, và trách nhiệm giữa BRM và các process khác.
+	- BRM cần tập trung vào tầm nhìn high-level, service có đáp ứng được nhu cầu KH hay không, hơn là những mục tiêu cụ thể khi chuyển giao địch vụ.
